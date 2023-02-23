@@ -1,5 +1,6 @@
-# Projeto 1 - Teleinformática e Redes 2
-Repositório para o primeiro trabalho de TR2.
+# IRC Chat
+
+Repositório para o projeto 1 da disciplina de Teleinformática e Redes 2, que consiste na implementação de um sistema de chat que utiliza o protocolo Internet Relay Chat (IRC).
 
 ## Descrição
 
@@ -11,14 +12,10 @@ estejam conectados a um servidor IRC, eles podem conversar com outros usuários 
 a qualquer servidor na rede IRC. O IRC oferece comunicação em grupo, por meio de canais
 nomeados, bem como comunicação pessoal por meio de mensagens “privadas”.
 
-## Rodando o projeto localmente
+## Rodando localmente
 
-Instale as bibliotecas externas com o pip
+Instale as bibliotecas externas com o pip `pip install -r requirements.txt`
 
-```pip install -r requirements.txt```
+Inicie o servidor: `python server.py`
 
-Inicie o servidor:
-```python3 server.py```
-
-Inicie o cliente:
-```python3 client.py```
+Inicie o cliente: `python client.py`
