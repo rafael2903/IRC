@@ -1,4 +1,4 @@
-# IRC Chat
+# IRC
 
 Repositório para o projeto 1 da disciplina de Teleinformática e Redes 2, que consiste na implementação de um sistema de chat que utiliza o protocolo Internet Relay Chat (IRC).
 
